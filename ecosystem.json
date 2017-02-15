@@ -23,8 +23,8 @@
   "deploy": {
     "production": {
       "user": "root",
-      "host": "138.68.98.175",
-      "port": "22",
+      "host": "139.59.157.85",
+      "port": "2233",
       "ref": "origin/master",
       "repo": "git@github.com:AntonAbramov/serviceiphone.git",
       "path": "/var/www/serviceiphone/",
